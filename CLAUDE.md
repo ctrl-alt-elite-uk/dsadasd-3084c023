@@ -85,3 +85,22 @@ If neither is set, the form renders but the submit button is disabled with an in
 ## Hidden pages
 
 `site.config.pages` controls which pages appear in the nav and sitemap. All four page files (`home`, `about`, `services`, `contact`) always exist in the repo even if only a subset are linked, so promoting a hidden page later is just a one-line config change, not a rebuild. If a client starts on 1-page and upgrades to 3, you update `site.config.pages` and fill in the relevant `content/*.md` - nothing else.
+
+
+## This client
+
+- **Business**: dsadasd
+- **Primary goal**: get_customers
+- **Pages**: home, contact
+- **Accent colour**: #3b82f6
+- **Logo**: Client has no logo. Use the wordmark fallback (business name in display font).
+- **Portal**: https://ctrl-alt-elite.uk/portal/projects/3084c023-5947-4096-a7a5-f24ce53d4556
+- **Project id**: 3084c023-5947-4096-a7a5-f24ce53d4556
+
+### Inspiration links (from brief)
+
+- (none provided)
+
+### Notes for iteration
+
+Stay within the constraints at the top of this file. Any question about the brief goes back through the portal - do not guess.
